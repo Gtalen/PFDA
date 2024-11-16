@@ -8,6 +8,11 @@ filepath = "../../PFDA-courseware/code/Topic01-getting started/datafiles/data.tx
 #"../PFDA-courseware/code/Topic01-getting started/datafiles/"
 print (filepath + filename)
 with open (filepath, "rt") as dt:
+    total = 0
     for line in dt:
-        print (line)
+        print (line, end="") #end = "" removes the space after each numebrs
+        total += int(line)
+        print("") # adds a newline
+        print(total)
+
 
