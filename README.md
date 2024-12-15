@@ -4,7 +4,7 @@
 ## Author: Ebelechukwu Chidimma Igwagu
 
 ## Description
-This repository contains my assignment and project and for the module Programming for Data Analytics at ATU Galway.
+This repository contains my assignment and project for the module Programming for Data Analytics at ATU Galway.
 
 ## ASSIGNMENT
 Four assignments covering data analytics concepts such as data representation and dealing with different data formats, data visualisation with plots, pandas, regular expression, numpy and random numbers.
