@@ -7,7 +7,7 @@
 This repository contains my assignment and project for the module Programming for Data Analytics at ATU Galway.
 
 ## ASSIGNMENT
-Four assignments covering data analytics concepts such as data representation and dealing with different data formats, data visualisation with plots, pandas, regular expression, numpy and random numbers.
+Four assignments covering data analytics concepts such as data representation, dealing with different data formats, data visualisation with plots, pandas, regular expression, numpy and random numbers were given.
 
 - Assignment 2: weather plot can be accessed [here](https://github.com/Gtalen/PFDA/blob/main/pfda_assignment/assignment2_weather.ipynb)
 - Assignment 3: Pie chart  can be accessed [here](https://github.com/Gtalen/PFDA/blob/main/pfda_assignment/assignment03_pie.ipynb)
