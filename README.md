@@ -1,4 +1,4 @@
-# HIgher National Diploma in Science in Computing (Data Analytics)
+# Higher National Diploma in Science in Computing (Data Analytics)
 ## Programming for Data Analytics Module (4369: 2024-2025)
 ## Atlantic Technological University (ATU) Galway
 ## Author: Ebelechukwu Chidimma Igwagu
