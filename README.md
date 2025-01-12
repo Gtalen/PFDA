@@ -53,20 +53,20 @@ pip install numpy pandas matplotlib seaborn scikit-learn imbalanced-learn sqlite
 
 1. Data Manipulation and Visualization:
 
-- numpy: For numerical computations and array handling.
-- pandas: For handling and manipulating dataplots
-- matplotlib: Data visualizations
-- seaborn: Advanced data visualizations
+- Numpy: For numerical computations and array handling.
+- Pandas: For handling and manipulating dataplots
+- Matplotlib: Data visualizations
+- Seaborn: Advanced data visualizations
 
 2. Database Handling: sqlite3
 
 3. Machine Learning:
 
-- sklearn (scikit-learn): For building and training machine learning models
+- Scikit-learn: For building and training machine learning models
 
-- imblearn: For handling class imbalance- SMOTE
+- Imblearn: For handling class imbalance- SMOTE
 
-4. warnings: For suppressing warnings
+4. Warnings: For suppressing warnings
 
 ### Exploratory Data Analysis
 
@@ -116,3 +116,7 @@ Random forest model was the best model for correlation analysis.
 ### License
 
 This project is available under the MIT license.
+
+### Disclaimer
+
+Please note that while the synthesized wearable device data has been incorporated into this analysis, drawing from medical research and publications, the results are not intended for clinical or research use. The data generation process may have potential limitations or inaccuracies, which could impact the reliability of the analysis for real-world applications.
