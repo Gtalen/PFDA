@@ -8,7 +8,7 @@
 
 ## Description
 
-This repository contains my assignment and project for the module Programming for Data Analytics at ATU Galway. The objective of the assignments and project is to demonstrate my understanding of the key topics covered in this module. These include representing datasets, plotting, pandas, numpy and random numbers,introduction to machine learning and databases.
+This repository contains my assignment and project for the module Programming for Data Analytics at ATU Galway. The objective of the assignments and project is to demonstrate my understanding of the key topics covered in this module. These include representing datasets, plotting, Pandas, Numpy, random number generation, introduction to machine learning and databases.
 
 ## Assignment
 
@@ -29,9 +29,14 @@ Stroke has been identified as the second leading cause of death and the third le
 
 This project presents my analysis of the Kaggle Stroke dataset, which includes data from 5,110 subjects and can be accessed [here](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset?resource=download). The original dataset was enhanced by adding three additional variables derived from wearable smart watches. This modification was essential to evaluate the influence of these variables on stroke prediction and to integrate concepts of random number generation covered in the Programming for Data Analytics module.
 
+### Download Dataset
+
+- Kaggle Stroke dataset is available[here]((https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset?resource=download))
+- Merged Kaggle Stroke and synthetic wearable smart watches dataset can be downloaded as either a [CSV](https://github.com/Gtalen/PFDA/blob/main/pfda_project/healthcare_wearable_data.csv) or [database](https://github.com/Gtalen/PFDA/blob/main/pfda_project/stroke_wearable_data.db).
+
 ### Usage
 
-1. Clone the repository[here](https://github.com/Gtalen/PFDA.git).
+1. Clone the repository [here](https://github.com/Gtalen/PFDA.git).
 
 - Locate the pfda_project folder and the stroke_prediction.ipynb notebook
 - Follow along with the steps and codes
@@ -40,10 +45,11 @@ This project presents my analysis of the Kaggle Stroke dataset, which includes d
 
 This project requires several Python libraries for data manipulation, machine learning, visualization, and database handling. These come pre-installed in Visual studio code, otherwise it can be installed  by running the following:
 
-```pip install numpy pandas matplotlib seaborn scikit-learn imbalanced-learn sqlite3
+```bash
+pip install numpy pandas matplotlib seaborn scikit-learn imbalanced-learn sqlite3
 ```
 
-#### Libraries used:
+#### Libraries used
 
 1. Data Manipulation and Visualization:
 
